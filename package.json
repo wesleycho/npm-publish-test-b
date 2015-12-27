@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish-test-wc",
+  "version": "0.0.2",
+  "description": "Testing npm releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleycho/npm-publish-test-b.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesleycho/npm-publish-test-b/issues"
+  },
+  "homepage": "https://github.com/wesleycho/npm-publish-test-b#readme"
+}
